@@ -222,7 +222,7 @@ Kara std font
 219 emdash
 220 quoteleft
 221 quoteright
-222 quotesinglbae
+222 quotesinglbase
 223 quotedblleft
 224 quotedblright
 225 quotedblbase
