@@ -1,4 +1,4 @@
-# Kara Std Font_(s)_
+# Kara Std Font(s)
 
 
 A standard font.
