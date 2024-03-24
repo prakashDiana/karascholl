@@ -1,4 +1,4 @@
-# karascholl
+# Kara Std Font_(s)_
 
 
 A standard font.
