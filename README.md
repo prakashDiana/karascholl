@@ -23,8 +23,8 @@ Apple Glyph Names
 Glyph ID | Name
 --- | ---
 0	| .notdef
-1	| .null
-2	| nonmarkingreturn
+1	| **.null**
+2	| **nonmarkingreturn**
 3	| space
 4	| exclam
 5	| quotedbl
