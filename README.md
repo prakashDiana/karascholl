@@ -33,4 +33,5 @@ Glyph ID | Name
 8 | percent
 9	| ampersand
 10 | quotesingle
+
 and more.
