@@ -9,3 +9,6 @@ It has PostScript glyph names.
 --- | ---
 0 | .notdef
 1 | NULL
+2 | CR
+
+And more.
