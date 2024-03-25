@@ -36,3 +36,11 @@ Glyph ID | Name
 10 | quotesingle
 
 and more.
+
+TrueType outlines say that: 
+&#x2022; Glyph 1 should have no contours and zero advance width.
+&#x2022; Character U+000D (carriage return) should map to a glyph with a positive advance width.
+&#x2022; Characters U+0001-001F (misc ASCII control codes) and U+007F (delete) should be mapped to glyph 0 (with some exceptions noted below).
+&#x2022; Characters U+0000 (null), U+0008 (backspace) and U+001D (group separator) should map to glyph 1.
+&#x2022; Characters U+0009 (horizontal tabulation), U+0020 (space) and U+00A0 (no-break space) should map to a glyph with no contours and a positive advance width.
+&#x2022; Characters U+0009 and U+0020 should map to a glyph with the same width.
