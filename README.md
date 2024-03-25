@@ -10,6 +10,7 @@ It has PostScript glyph names.
 0 | .notdef
 1 | NULL
 2 | CR
+3 | space
 
 And more.
 
